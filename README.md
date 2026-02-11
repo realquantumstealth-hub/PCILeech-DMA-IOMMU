@@ -1,9 +1,9 @@
 # PCILeech-DMA-IOMMU
 Quantumstealth open source IOMMU firmware.
 
-Just imitating IOMMU cant pass it and all firmware cant pass iommu.
+Just imitating IOMMU cant pass it 
 
-Quantumstealth discord:https://discord.gg/qstealth
+Quantumstealth discord:https://discord.gg/qslab
 
 ## For more engineering documents`pcileech_enigma_x1.srcs`,please contact me on discord.
 
